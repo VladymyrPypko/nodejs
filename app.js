@@ -1,6 +1,6 @@
 import express from 'express';
 import crudRoutes from './routes/crudRoutes.js';
-import { initDb } from './services/dbService.js';
+import { initDb } from './services/dbServices.js';
 
 const app = express();
 

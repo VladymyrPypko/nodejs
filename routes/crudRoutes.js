@@ -5,7 +5,7 @@ import {
   createItem,
   updateItem,
   deleteItem,
-} from '../services/dbService.js';
+} from '../services/dbServices.js';
 
 const router = express.Router();
 
