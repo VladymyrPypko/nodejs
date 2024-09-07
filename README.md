@@ -5,7 +5,7 @@ This project is about how to make a simple API for CRUD operations using NodeJS,
 
 ## Functionality
 - **Creating** data unit (user)
-- **Reading** data (all users)
+- **Reading** data (all users) & (user by id)
 - **Updating** user data (user by id)
 - **Deleting** user data (user by id)
 
