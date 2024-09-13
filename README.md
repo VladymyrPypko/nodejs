@@ -1,7 +1,16 @@
-# This reposity is created for further homeworks and NodeJS practice
----
+# Homework 3: Express CRUD API with MongoDB
 
-Each homework will have its dedicated branch and also will be added to the list below (branch: homework / description).
+## Description
+This project is about how to make a simple API for CRUD operations using NodeJS, Exppress and MongoDB
 
-* feature/hw1: homework 1 / Create CRUD simple server
-* feature/hw2: homework 2 / Create CRUD Server using TypeScript & SQLite
+## Functionality
+- **Creating** data unit (item)
+- **Reading** data (all items) & (item by id)
+- **Updating** item data (item by id)
+- **Deleting** item data (item by id)
+
+_If you want to launch this project please clone this repository or download it_
+
+_Install all dependencies: open a terminal in your IDE or make sure to open any in root level and write there **npm install**_
+
+_Launch the project: **npm start**_
